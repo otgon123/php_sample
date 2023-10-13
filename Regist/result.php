@@ -1,15 +1,18 @@
+<?php
+//TODO: session check
+?>
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+
+<?php include('../components/head.php'); ?>
+
 <body>
     <?php include('../components/nav.php'); ?>
-    <h2>会議登録完了</h2>
+
+    <h2>会員登録完了</h2>
     <p>
         登録ありがとうございました。
     </p>
 </body>
+
 </html>
